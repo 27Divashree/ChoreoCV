@@ -1,6 +1,8 @@
 # ChoreoCV
 
-ChoreoCV is a project that allows you to compare your dance moves with a benchmark video. Whether you want to upload a pre-recorded video or use your webcam to score yourself live, ChoreoCV provides a fun and interactive way to evaluate your dancing skills. Additionally, you can have your dancing stick figure displayed on a virtual background, adding an element of entertainment to the experience.
+ChoreoCV is a project that allows you to compare your dance moves with a benchmark video. Whether you want to upload a pre-recorded video or use your webcam to score yourself live, ChoreoCV provides a fun and interactive way to evaluate your dancing skills. 
+ChoreoCV also allows you to create your own dance moves using the createmoves.py script. You can save the generated dance moves as a video and compare them with other dance moves as well.
+Additionally, you can have your dancing stick figure displayed on a virtual background, adding an element of entertainment to the experience.
 
 ## How to Use
 
@@ -29,7 +31,7 @@ ChoreoCV is a project that allows you to compare your dance moves with a benchma
    - Upload: Select a pre-recorded video of your dance moves and a benchmark video for comparison.
    - Webcam: Toggle to the webcam mode to score yourself live.
 
-5. View the Results: After processing the videos, ChoreoCV will provide a detailed comparison of your dance moves with the benchmark video. You can analyze the scores and gain insights into areas for improvement.
+5. View the Results: While processing the videos, ChoreoCV will provide a detailed comparison of your dance moves with the benchmark video. You can analyze the live scores and gain insights into areas for improvement.
 
 6. Virtual Background: To add an extra touch of fun, ChoreoCV allows you to display a dancing stick figure on a virtual background. Enjoy the experience and get creative with your dance performance.
 

@@ -38,7 +38,7 @@ while True:
     opImg = np.zeros([h, w, c])  # create blank image with original frame size
     opImg.fill(255)  # set white background. put 0 if you want to make it black
     """
-    opImg = cv2.imread('D:\VIT\Projects\Dance\HumanBodyPoseDetection-main\g0.jpg')
+    opImg = cv2.imread("g0.jpg")
 
     # draw extracted pose on black white image
     mp_draw.draw_landmarks(opImg, results.pose_landmarks, mp_pose.POSE_CONNECTIONS,
